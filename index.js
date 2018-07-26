@@ -1,3 +1,3 @@
 // Code your solutions in this file
 //
-function printBadges()
+function printBadges(argument)
